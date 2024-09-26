@@ -3,6 +3,7 @@
 * grape
 * lime
 * salt
+* apple
 
 # Instructions
 
